@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">ListaContatos</string>
+    <string-array name="contatos">
+        <item>Alguém</item>
+        <item>Alguém</item>
+        <item>Alguém</item>
+        <item>Alguém</item>
+        <item>Alguém</item>
+        <item>Alguém</item>
+        <item>Alguém</item>
+        <item>Alguém</item>
+        <item>Alguém</item>
+        <item>Alguém</item>
+        <item>Alguém</item>
+        <item>Alguém</item>
+        <item>Alguém</item>
+        <item>Alguém</item>
+        <item>Alguém</item>
+        <item>Alguém</item>
+        <item>Alguém</item>
+        <item>Alguém</item>
+        <item>Alguém</item>
+        <item>Alguém</item>
+        <item>Alguém</item>
+        <item>Alguém</item>
+        <item>Alguém</item>
+        <item>Alguém</item>
+        <item>Alguém</item>
+        <item>Alguém</item>
+        <item>Alguém</item>
+        <item>Alguém</item>
+        <item>Alguém</item>
+        <item>Alguém</item>
+        <item>Alguém</item>
+        <item>Alguém</item>
+        <item>Alguém</item>
+        <item>Alguém</item>
+        <item>Alguém</item>
+        <item>Alguém</item>
+        <item>Alguém</item>
+        <item>Alguém</item>
+        <item>Alguém</item>
+        <item>Alguém</item>
+        <item>Alguém</item>
+        <item>Alguém</item>
+        <item>Alguém</item>
+        <item>Alguém</item>
+        <item>Alguém</item>
+    </string-array>
+</resources>
